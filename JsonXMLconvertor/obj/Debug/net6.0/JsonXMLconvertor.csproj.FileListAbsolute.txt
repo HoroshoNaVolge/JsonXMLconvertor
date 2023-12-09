@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\bin\Debug\net6.0\JsonXMLconvertor.exe
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\bin\Debug\net6.0\JsonXMLconvertor.deps.json
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\bin\Debug\net6.0\JsonXMLconvertor.runtimeconfig.json
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\bin\Debug\net6.0\JsonXMLconvertor.dll
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\bin\Debug\net6.0\JsonXMLconvertor.pdb
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\JsonXMLconvertor.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\JsonXMLconvertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\JsonXMLconvertor.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\JsonXMLconvertor.AssemblyInfo.cs
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\JsonXMLconvertor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\JsonXMLconvertor.dll
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\refint\JsonXMLconvertor.dll
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\JsonXMLconvertor.pdb
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\JsonXMLconvertor.genruntimeconfig.cache
+C:\Users\user\source\repos\JsonXMLconvertor\JsonXMLconvertor\obj\Debug\net6.0\ref\JsonXMLconvertor.dll
